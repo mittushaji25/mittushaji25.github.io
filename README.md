@@ -34,9 +34,3 @@ A data-driven analysis of XRP cryptocurrency trends using Python and visualizati
 - 🔗 LinkedIn: [linkedin.com/in/mittushaji](https://linkedin.com/in/mittushaji)  
 - 📊 Tableau Public: [tableau.com/mittushaji](https://tableau.com/mittushaji)  
 - 📍 Location: Ginsheim-Gustavsburg, Germany
-
----
-
-## 📄 License
-
-This portfolio is open-source and available under the [MIT License](LICENSE).
